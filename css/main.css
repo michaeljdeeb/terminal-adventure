@@ -1,0 +1,44 @@
+// TODO - Handle when lines have to wrap
+
+body {
+  font-size: 16px;
+}
+
+.terminal-window {
+  background-color: #000;
+  color: #fff;
+  border-radius: .4em;
+}
+
+.title-bar {
+  background-color: #e0e0e0;
+  border-top-left-radius: .3em;
+  border-top-right-radius: .3em;
+  color: #000;
+  font-family: -apple-system, "BlinkMacSystemFont", sans-serif;
+  overflow: hidden;
+  padding: .2em;
+}
+
+.title-bar div {
+  text-align: center;
+}
+
+.title-button {
+  border-radius: 50%;
+  width: 1em;
+  height: 1em;
+  float: left;
+  margin: .1875em;
+}
+
+.terminal-content {
+  border: 0;
+  background-color: #000;
+  font-family: monospace;
+  width: 100%;
+  color: #fff;
+  font-size: 1em;
+  border-bottom-left-radius: .3em;
+  border-bottom-right-radius: .3em;
+}
