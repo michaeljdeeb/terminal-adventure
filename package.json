@@ -1,0 +1,26 @@
+{
+  "name": "terminal-adventure",
+  "version": "0.0.1",
+  "description": "A text based terminal game for the web",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaeljdeeb/terminal-adventure.git"
+  },
+  "keywords": [
+    "terminal",
+    "mac",
+    "text game"
+  ],
+  "author": "Michael Deeb http://michaeljdeeb.com",
+  "contributors": "Lydell Newby III",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaeljdeeb/terminal-adventure/issues"
+  },
+  "homepage": "https://github.com/michaeljdeeb/terminal-adventure#readme",
+  "private": true
+}
