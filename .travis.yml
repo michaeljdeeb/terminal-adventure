@@ -1,4 +1,4 @@
-language: javascript
+language: node_js
 
 after_success: |
   if [ -n "$GITHUB_API_KEY" ]; then
